@@ -1,0 +1,12 @@
+/* This is a css file. */
+* {
+font-family: Georgia, serif;}
+
+figcaption{
+	color: grey}
+
+h1{
+	text-transform: uppercase;}
+
+footer{
+	color: grey}
